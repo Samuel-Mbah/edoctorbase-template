@@ -1,4 +1,4 @@
-# Patient Vitals App Template (eDoctorbase)
+# eDoctorbase-template
 
 A patient vitals database portal.
 
@@ -76,15 +76,8 @@ Possible integration approaches:
 ---
 
 ## Tech stack
-> Replace this section with your actual stack once confirmed.
-
-Example options:
-- Frontend: React / Next.js
-- Backend: Node.js / Django / Spring Boot
-- Database: PostgreSQL / MongoDB
-- Auth: OAuth2 / OpenID Connect
-
----
+- Frontend: HTML,CSS, JavaScript, Bootstrap 
+--
 
 ## Getting started
 > Add exact setup steps once runnable code exists.
