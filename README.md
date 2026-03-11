@@ -4,7 +4,7 @@ A patient vitals database portal.
 
 **eDoctorbase** is a web application template/concept that allows healthcare personnel to manage patients and their medical records. It is designed to collect patients’ biological data—such as **heart rate, SpO₂, temperature, blood pressure, EDA, and sleep data**—from wearable devices (e.g., fitness trackers) and present it via a web portal.
 
-> **Status:** Template / documentation-in-progress. Expand this README as the codebase evolves.
+> **Status:** Frontend Template
 
 ---
 
